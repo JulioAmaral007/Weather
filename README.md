@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Construir um Buscador de CEP, via API.
+Construir um Consultor de Temperatura, via API.
 
 
 ## :memo: Licença
